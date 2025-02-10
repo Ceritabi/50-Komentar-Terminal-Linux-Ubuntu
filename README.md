@@ -1,0 +1,1 @@
+# 50-Komentar-Terminal-Linux-Ubuntu
