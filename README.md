@@ -1,4 +1,4 @@
-📌Laporan Praktikum 2 Jaringan Komputer
+📌Laporan Praktikum 2 Sistem Operasi
 
 Nama : M. Rizky Taufik Nur Hidayat
 
