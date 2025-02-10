@@ -12,5 +12,6 @@ Kelas: TK4B
 <hr>
 
 <ol>
-  
+  <li>Buat folder baru, contoh JARKOM</li>
+  <img  src="1.png" alt="cable"  width="300px">
 </ol>
