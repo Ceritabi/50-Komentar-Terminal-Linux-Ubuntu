@@ -117,7 +117,13 @@ Kelas: TK4B
   <p>Perintah evince.pdf berfungsi untuk menampilkan isi file format pdf</p>
  
 </ol>
+<hr>
+
+<h2>Analisis Percobaan</h2>
+<p>Selama percobaan, berbagai perintah terminal telah dieksekusi untuk memahami cara kerja sistem Linux. Dari hasil percobaan, dapat diamati bahwa perintah terminal di Linux dapat dikategorikan ke dalam beberapa kelompok utama, seperti navigasi file dan direktori, manajemen proses, pengelolaan sistem, serta manipulasi paket dan izin akses.</p>
 
 <hr>
+<h2>Kesimpulan</h2>
+<p>Dari percobaan ini, kita dapat menyimpulkan bahwa perintah terminal di Linux memiliki berbagai fungsi penting dalam pengelolaan file, proses, sistem, dan jaringan. Pemahaman yang baik terhadap perintah-perintah ini sangat berguna untuk administrasi sistem, pemecahan masalah, serta meningkatkan efisiensi dalam penggunaan Linux.</p>
 
 
